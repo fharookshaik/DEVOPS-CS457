@@ -39,7 +39,6 @@ After Downloading the GitHub CLI, the following steps need to be done to set it 
    $ gh auth login
    ```
 4. Follow the Installation instructions on the screen.
-5. 
 
 
 ### Common GitHub CLI Commands
