@@ -16,6 +16,7 @@
 |:--|:--|:--|
 | [Assignment 1](https://docs.google.com/spreadsheets/d/1NvdPWQMCFmoC2oureYTbL6ifHOCjXP81vjO1H6A91ec/edit#gid=0) | Pair up into teams & update in the Google Sheets | 16/08/2021 |
 | [Assignment 2](/Assignment%202%20-%20Git%20Overview/README.md) | Git & GitHub CLI Overview | 18/08/2021 |
+| [Virtual Hackathon 1.0](https://github.com/fharookshaik/DEVOPS_CS457/blob/main/Virtual%20Hackathon%201.0/README.md) | Hackathon on Git | 26/08/2021 |
 | To be Added | | |
 
 
